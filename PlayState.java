@@ -61,18 +61,8 @@ public class PlayState extends State {
         //initialisation: if record not broken, highscore = 0
         //prefs.putInteger("highscore", 0);
 
-        //get Integer from preferences, 0 is the default value.
+        //get Integer from preferences, 0 is the default value
         highscore = prefs.getInteger("highscore", 0);
-
-        //Other examples of preferences
-        //prefs.putString("name", "Donald Duck");
-        //String name = prefs.getString("name", "No name stored");
-        //prefs.putBoolean("soundOn", true);
-
-        //Other idea
-        //public float time = 100;
-        //time += 0.1f * Gdx.graphics.getDeltaTime();
-        //if(time >= 103.2f)endMusic.stop();
 
         bg = new Texture("bg.jpg");
         ground = new Texture("ground.jpg");
