@@ -1,5 +1,3 @@
-//from Youtube, Brent Aureli's - Code School. I added a score and a highscore.
-//https://www.youtube.com/watch?v=rzBVTPaUUDg&list=PLZm85UZQLd2TPXpUJfDEdWTSgszionbJypackage com.android.game.states;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.math.Vector3;
