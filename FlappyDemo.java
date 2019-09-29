@@ -1,5 +1,4 @@
 //The main class of our LibGDX Project
-//AndroidManifest > Screen orientation > from landscape to portrait
 package com.android.game;
 
 import com.android.game.states.GameStateManager;
