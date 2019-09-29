@@ -10,3 +10,4 @@ Then, I added a score with a nice font in "PlayState.java" thanks to the followi
 
 
 I also added a highscore in "PlayState.java" to make the game more interesting.
+The way to add a highscore in explained here: https://stackoverflow.com/questions/46426899/libgdx-save-and-load-an-integer-for-highscore
