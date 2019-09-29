@@ -1,5 +1,3 @@
-//from Youtube, Brent Aureli's - Code School. I added a score and a highscore.
-//https://www.youtube.com/watch?v=rzBVTPaUUDg&list=PLZm85UZQLd2TPXpUJfDEdWTSgszionbJy
 //The main class of our LibGDX Project
 //AndroidManifest > Screen orientation > from landscape to portrait
 package com.android.game;
