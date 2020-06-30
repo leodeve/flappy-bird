@@ -16,5 +16,6 @@ The way to add a highscore in explained here: https://stackoverflow.com/question
 Regarding the pictures, I found most of them online (tube, background, play button). However, I drew the bird with the website Pixilart.
 
 Here is how it looks:
-
-![flappy_app](https://user-images.githubusercontent.com/46608797/86122220-bd024900-bad7-11ea-8a54-674356682623.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46608797/86122220-bd024900-bad7-11ea-8a54-674356682623.jpg">
+</p>
